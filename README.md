@@ -3,7 +3,5 @@ Caso de mercado:  O cliente  tem uma revendedora de carros e gostaria de realiza
 
 
  
-Pergunta 1: Quais são os modelos, anos e quilometragens que estão sendo mais frequentemente anunciados e vendidos no Mercado Livre?
-Top 10 Modelos de carros:
 
 
